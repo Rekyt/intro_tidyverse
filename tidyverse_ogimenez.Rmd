@@ -34,7 +34,7 @@ knitr::include_graphics("wickham_president.jpg")
 
 * Main characteristics of a tidy dataset:
     - each variable is a column
-    - each observation is a raw
+    - each observation is a row
     - each value is in a different cell
     
 ```{r echo=FALSE, out.width = "80%", fig.align="center"}
